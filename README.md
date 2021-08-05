@@ -1,1 +1,1 @@
-# darklinux-awesome-skel
+# darklinux-gamemode
