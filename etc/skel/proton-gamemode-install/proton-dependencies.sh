@@ -67,5 +67,5 @@ cp gamemode.ini $HOME/.config/
 tput setaf 6
 echo "################################################################"
 echo "#########   Packages installed  	        ################"
-echo "#########   install folder can be deleted now  	    ############"
+echo "#########   read instructions for usage  	    ############"
 echo "################################################################"
